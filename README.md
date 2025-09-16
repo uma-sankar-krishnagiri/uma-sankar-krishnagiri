@@ -1,89 +1,80 @@
+<!-- Animated Intro -->
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBnMGE4ZTg4b2dneDJiaTV2dG1oY2ZkaGZicm9sZjV5eGd6bHlvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYxT/giphy.gif" width="60px" />
-<h1>
-Hi there, I'm Uma Sankar Krishnagiri 👋
-</h1>
-<h3>
-Data Analyst | Bridging the Gap Between Raw Data and Actionable Business Strategy
-</h3>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYxT/giphy.gif" width="80px" />
+  <h1>Hi there, I'm Uma Sankar Krishnagiri 👋</h1>
+  <h3>Data Analyst | Turning Raw Data into Business Strategy</h3>
 </div>
 
-I'm a Data Analyst passionate about building systems that make data accessible and understandable. My goal is to move beyond simple reporting and create automated, scalable solutions that empower teams to make smarter, faster decisions.
+---
 
+### 👨‍💻 About Me  
+I'm a **Data Analyst** passionate about building systems that make data **accessible, automated, and actionable**.  
+My goal is to move beyond static reports and create **scalable data solutions** that empower smarter, faster decisions.  
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Uma's GitHub Stats" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Uma's Top Languages" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmaSankarKrishnagiri&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Uma's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaSankarKrishnagiri&layout=compact&theme=dark&hide_border=true" alt="Uma's Top Languages" height="150"/>
 </p>
 
-🚀 My Core Tech Stack
-BI & Visualization
+---
 
-Databases & Cloud
+### 🚀 My Core Tech Stack  
 
-Languages & Libraries
+**BI & Visualization**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/id93j032pa.svg" width="48" height="48" alt="Tableau" /><br>Tableau
+**Databases & Cloud**  
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/idvo0668aa.svg" width="48" height="48" alt="Google BigQuery" /><br>Google BigQuery
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/id40b615p5.svg" width="48" height="48" alt="Python" /><br>Python
+---
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/id9841y2p9.svg" width="48" height="48" alt="Power BI" /><br>Power BI
+### 📈 Featured Project: Real-Time Data Pipeline & Analytics Dashboard  
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/id_79p5w0t.svg" width="48" height="48" alt="Snowflake" /><br>Snowflake
+🚀 Built an **end-to-end pipeline**:  
+- Ingests **live cryptocurrency data** via API  
+- Processes it with **Python**  
+- Stores in **Google BigQuery**  
+- Visualized with **Tableau** (live dashboard)  
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/id63kcsb8j.svg" width="48" height="48" alt="Pandas" /><br>Pandas
+⏱ Reduced data analysis latency from **24 hours → under 5 minutes**  
 
+<img src="https://raw.githubusercontent.com/UmaSankarKrishnagiri/Portfolio/main/assets/tableau_dashboard.png" width="600px"/>
 
+---
 
-<img src="https://www.google.com/search?q=https://asset.brandfetch.io/id8p_2g7a5/idg3d3j63z.svg" width="48" height="48" alt="SQL" /><br>SQL
+### 🗂️ Other Projects  
 
-<img src="https://www.google.com/search?q=https://numpy.org/images/logo.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+| Project | Description | Impact |
+|---------|-------------|--------|
+| **Uber Ride Analytics** | Analyzed 150K+ rides to find key drivers of cancellations & demand patterns | Reduced cancellations by **10-15%** |
+| **Starbucks Customer Analytics** | Built predictive models on 1M+ transactions to understand loyalty program effectiveness | Improved retention forecasts by **15%** |
 
-📈 Featured Project Spotlight
-Real-Time Data Pipeline & Analytics Dashboard
-This is my flagship project, demonstrating a complete, end-to-end data solution. It automates the ingestion of live cryptocurrency data via an API, processes it with Python, stores it in a Google BigQuery data warehouse, and visualizes KPIs on a live Tableau dashboard that updates automatically.
+---
 
-Impact: Reduced data analysis latency from 24 hours to under 5 minutes.
+### 📫 Let's Connect!  
 
-PUT A SCREENSHOT OF YOUR TABLEAU DASHBOARD HERE
+<p align="center">
+  <a href="https://www.linkedin.com/in/umasankar-krishnagiri-75a953209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:umasankarkrishnagiri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="[YOUR_TABLEAU_PUBLIC_PROFILE_LINK]" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
+  </a>
+</p>
 
-🗂️ My Other Projects
-Project
-
-Description
-
-Key Achievement
-
-Uber Ride Analytics
-
-Analyzed 150K+ ride records to identify key drivers of cancellations and peak demand patterns.
-
-Delivered insights with the potential to reduce cancellations by 10-15%.
-
-Starbucks Customer Analytics
-
-Built predictive models on 1M+ transactions to understand loyalty program effectiveness.
-
-Improved customer retention forecasts by 15%.
-
-📫 Let's Connect!
-I'm always open to connecting with fellow data enthusiasts and exploring new opportunities.
-
-<div align="center">
-<a href="https://www.linkedin.com/in/umasankar-krishnagiri-75a953209/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:umasankarkrishnagiri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-&nbsp;
-<a href="[YOUR_TABLEAU_PUBLIC_PROFILE_LINK]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau_Public-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite" alt="Tableau Public">
-</a>
-</div>
+---
+✨ Thanks for stopping by! Always open to connecting with fellow data enthusiasts 🚀
